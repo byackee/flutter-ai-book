@@ -1,0 +1,8 @@
+.env
+.dart_tool/
+.packages
+build/
+*.iml
+.idea/
+.vscode/
+*.lock
